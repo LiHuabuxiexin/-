@@ -1,0 +1,21 @@
+p {
+  text-align: center;
+  font-size: xx-large;
+  font-family: 宋体, serif;
+  color:darkslategrey;
+}
+body{
+  background:url("3.png.png")
+}
+p1 {
+  color:#222222;
+  background-color:lemonchiffon;
+}
+p2{
+  color: #a15626;
+  background-color:ghostwhite;
+}
+p3{
+  color: #5464a1;
+  background-color:darkgrey;
+}
